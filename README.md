@@ -1,4 +1,3 @@
 # leangithup
-florktok
-jkiktk
+
 eiei
